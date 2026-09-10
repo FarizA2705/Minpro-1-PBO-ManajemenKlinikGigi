@@ -1,0 +1,5 @@
+model\Manager.class
+model\PasienGigi.class
+model\DokterGigi.class
+com\mycompany\klinikgigimanajemen\KlinikGigiManajemen.class
+model\RekamMedis.class
